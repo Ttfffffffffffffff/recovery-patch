@@ -1,0 +1,2 @@
+# recovery-patch
+sumsung recovery 
